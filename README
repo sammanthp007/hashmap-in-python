@@ -1,0 +1,12 @@
+Instructions:
+
+This program is written by Samman Bikram Thapa. To run the program, you need to have python 3.* in your computer, and have unziped the .zip file provided. 
+
+You can unzip using the unzip program in your terminal itself.
+
+Open the terminal in *nix environment or command line in your windows computer, and navigate to the directory with this file. Then type 
+python samman_hashmap.py
+
+To open the samman_hashmap_tests.py, you need to have samman_hashmap.py file and samman_hashmap_tests.py file in the same directory
+
+The source for the program is in samman_hashmap.py and the test cases are in samman_hashmap_tests.py
